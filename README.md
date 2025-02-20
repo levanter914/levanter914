@@ -1,4 +1,4 @@
-<img src='image.gif' width="500"/>
+<img src='image.gif' width="800"/>
 # Hi there! 👾 
 # I'm Shambhavi.
 

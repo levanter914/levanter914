@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="image.gif" width="100%" height="300"/>
+</p>
 
-<!--
-**levanter914/levanter914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👾 
+# I'm Shambhavi.
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 💻 Frontend Developer | JavaScript | React | Next.js  
+- 🎨 UI/UX Enthusiast | Tailwind CSS | ShadCN  
+- 🔍 Exploring AI & Web Accessibility  
+- 🌱 Currently working on The Art Vault 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shambhavi0325/) [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/levanter914)

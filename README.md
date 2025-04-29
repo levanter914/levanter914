@@ -2,8 +2,7 @@
   <img src="image.gif" width="100%" height="300"/>
 </p>
 
-# Hi there! 👾 
-# I'm Shambhavi.
+# Hi there! I'm Shambhavi.👾
 
 ## 🚀 About Me  
 - 💻 Frontend Developer | JavaScript | React | Next.js  

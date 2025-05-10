@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="image.gif" width="100%" height="400"/>
-</p>
+<div class="tenor-gif-embed" data-postid="14300790771558079688" data-share-method="host" data-aspect-ratio="2.49" data-width="100%"><a href="https://tenor.com/view/banner-gif-14300790771558079688">Banner GIF</a>from <a href="https://tenor.com/search/banner-gifs">Banner GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Hi there! I'm Shambhavi.👾
 

@@ -1,4 +1,4 @@
-![Banner GIF](https://tenor.com/view/banner-gif-14300790771558079688)
+![https://tenor.com/view/banner-gif-14300790771558079688](https://tenor.com/rczV7jWNal2.gif)
 
 
 # Hi there! I'm Shambhavi.👾

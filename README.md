@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/xnadcBnnXMgAAAAC/banner.gif" width="100%" height="300"/>
 </p>
 
-# Hi there! I'm Shambhavi. 👾
+# <i>Hi there! I'm Shambhavi. 👾</i>
 
 ## 🚀 About Me  
 - 💻 Web 2.0 & 3.0 | Golang | React | Next.js | Rust  

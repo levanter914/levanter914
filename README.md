@@ -30,13 +30,13 @@
       <!-- Social Links -->
       <div align="center"> 
         <a href="mailto:shamkashyap25@gmail.com" target="_blank">
-          <img src="https://skillicons.dev/icons?i=gmail" />
+          <img src="https://skillicons.dev/icons?i=gmail" width="30px"/>
         </a>
         <a href="https://www.linkedin.com/in/shambhavi0325/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" />
+          <img src="https://skillicons.dev/icons?i=linkedin" width="30px" />
         </a> 
         <a href="https://open.spotify.com/user/lrfedets01ag7ocdbfha0x3ps" target="_blank">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="30px" />
         </a>
       </div>
     </td>

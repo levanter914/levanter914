@@ -1,24 +1,7 @@
 <!-- Top Section (GitHub-safe, no visible table lines) -->
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <!-- left column -->
-      <td align="left" valign="middle" width="50%">
-        <h1>
-          Hi <br/>I am <br/>Shambhavi
-          <img src="https://i.pinimg.com/originals/d3/7d/13/d37d133cdbcc54bb5b54172e75b6c2b2.gif" width="30" alt="heart" />
-        </h1>
-      </td>
-      <!-- right column -->
-      <td align="center" valign="middle" width="50%">
-        <img src="https://c.tenor.com/8HQF1ae8HiwAAAAd/tenor.gif" width="500" alt="gif" />
-      </td>
-    </tr>
-  </table>
+    <img src="https://c.tenor.com/8HQF1ae8HiwAAAAd/tenor.gif" width="500" alt="gif" />
 </div>
-
-
----
 
 <!-- Tech Stack Title -->
 <h3 align="center">
@@ -34,8 +17,6 @@ Tech Stack
     <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,aws" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" /><br>
 </div>
-
----
 
 <!-- Socials Title -->
 <h3 align="center">

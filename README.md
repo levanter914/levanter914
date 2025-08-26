@@ -2,8 +2,8 @@
 
 🌸 Final Year CS Student at Sir MVIT, Bangalore.  
 💻 Tech geek, code crafter & problem solver  
-📩 shamkashyap25@gmail.com
-🚀 Building cool projects 
+📩 shamkashyap25@gmail.com  
+🚀 Building cool projects  
 ☕ Fuelled by house music, late-night code & aesthetic designs  
 
 ---
